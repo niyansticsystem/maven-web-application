@@ -12,7 +12,7 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Niyanstic Consulting</name>
+		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
@@ -48,7 +48,7 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
+			<version>3.8.6</version>
 			<scope>provided</scope>
 		</dependency>
 
